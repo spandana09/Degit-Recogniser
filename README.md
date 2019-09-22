@@ -2,7 +2,7 @@
 A simple webapp that classifies the digit drawn on the sketchpad.
 
 # Model training
-Run the digit_recognizer.py 
+Run the digit_recognizer.py.
 The models will be stored by default in the working directory.
 
 # Web App
